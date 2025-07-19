@@ -1,1 +1,2 @@
-context.log("🆕 نسخه‌ی 4.27 اجرا شد!")
+context.log("📦 داده‌ی دریافتی:", str(context.req.body_json))
+
