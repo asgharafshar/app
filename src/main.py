@@ -1,4 +1,4 @@
-
+import requests
 def main(context):
     try:
         data = context.req.json()
