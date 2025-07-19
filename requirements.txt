@@ -1,1 +1,1 @@
-appwrite1
+appwrite
